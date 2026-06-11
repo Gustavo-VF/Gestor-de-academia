@@ -42,4 +42,4 @@ O sistema permite o gerenciamento de uma academia, controlando os planos ofereci
 
 
 ## Link para o vídeo
-[[INSERIR LINK DO YOUTUBE AQUI]](https://youtu.be/cNFcyJjVUAo)
+https://youtu.be/cNFcyJjVUAo
