@@ -1,4 +1,4 @@
-# GestorPromo
+# GestorAcademia
 
 ## Nome do Projeto
 GestorAcademia - Sistema de Gestão de Academia
