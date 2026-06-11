@@ -35,6 +35,7 @@ O sistema permite o gerenciamento de uma academia, controlando os planos ofereci
 5. Login padrão do administrador:
    - E-mail: `admin@academia.com`
    - Senha: `admin123`
+   
    Login padrão do usuario: // mas pode ser criados outros usuarios 
    - E-mail: `user@email.com`
    - Senha: `senha123`
