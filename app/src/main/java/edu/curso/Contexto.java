@@ -17,29 +17,6 @@ public class Contexto {
     private static Usuario usuarioLogado;
     private static List<Plano> promocoes;
 
-    public static List<Plano> getPromocoes() throws Exception {
-        promocoes.clear();
-
-        List<Plano> promocoesBD = new ArrayList<>();
-        for (Plano p : promocoes) {
-            promocoesBD.add(p);
-        }
-        return promocoesBD;
-    }
-
-    public static List<String> getNomePromocoes() throws Exception {
-
-        List<String> promocoesBD = new ArrayList<>();
-        for (Plano p : promocoes) {
-            promocoesBD.add(p.getNome());
-        }
-        return promocoesBD;
-    }
-
-    public static void setPromocoes(List<Plano> promocoes) {
-        Contexto.promocoes = promocoes;
-    }
-
     public static void iniciar(Stage s) {
         stage = s;
     }

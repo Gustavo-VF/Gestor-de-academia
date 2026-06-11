@@ -59,7 +59,7 @@ public class GerenciarUsuariosView extends VBox {
         Button btnSalvar = new Button("Salvar");
         btnSalvar.setOnAction(e -> salvar());
 
-        Button btnNovo = new Button("Novo");
+        Button btnNovo = new Button("Limpar");
         btnNovo.setOnAction(e -> limpar());
 
         Button btnExcluir = new Button("Excluir");
